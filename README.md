@@ -6,5 +6,8 @@ NPM: https://nodejs.org.
 Hardhat: https://www.npmjs.com/package/hardhat.        
 Metamask: https://metamask.io/.     
 OpenZeppelin: https://www.npmjs.com/package/@openzeppelin/contracts.         
-ReactRouterDOM: https://www.npmjs.com/package/react-router-dom.      
+ReactRouterDOM: https://www.npmjs.com/package/react-router-dom.    
+
+# Acknowledgement.     
+https://github.com/dappuniversity/nft_marketplace.      
 
